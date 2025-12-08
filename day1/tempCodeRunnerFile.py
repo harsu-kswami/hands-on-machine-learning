@@ -17,10 +17,4 @@
 # todo2 = input(user_input)
 # todo3 = input(user_input)
 
-# # todos = [todo1, todo2, todo3]
-# # print(todos)
-
-# # type of username
-# print(type(user_input))
-
-
+# todos = [todo1, todo2, todo3]
