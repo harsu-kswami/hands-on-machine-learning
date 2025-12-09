@@ -24,3 +24,29 @@
 # print(type(user_input))
 
 
+
+# first create a empty list 
+# todos = []
+
+# then keep adding items to the list
+# while 2>1:
+#     todo = input("enter your todo: ")
+#     todos.append(todo)
+#     print(todos)
+
+
+# use while loops
+# password = input("enter your password: ")
+# count = 0
+# while password != "pass123":
+#     print("wrong password")
+#     password = input("enter your password: ")
+#     count += 1
+#     if count == 3:
+#         print("too many attempts")
+#         break
+
+# if password == "pass123":
+#     print("welcome user")
+    
+
