@@ -48,5 +48,35 @@
 
 # if password == "pass123":
 #     print("welcome user")
+
+
     
+# day1-4 part \
+
+# todo list program 
+# todos = []
+
+# while True:
+#     user_action = input("type add , show , or exit: ")
+#     user_action  = user_action.strip()   # strip() remove extra spaces for example:- "  add  " -> "add"
+
+#     match user_action:
+#         case "add":
+#             todo = input("enter your todo:")
+#             todos.append(todo)    #append add item to the list for example :- todos = [] -> todos.append("buy milk") -> todos = ["buy milk"]
+#         case "show":
+#             for item in todos:
+#                 print(item)
+#         case "edit":
+#             number = int(input("enter the nunber of the todo to edit: "))
+#             existing_todo = todos[number - 1]
+#             print(f"you are editing {existing_todo}")
+#             existing_todo = input("enter the new todo: ")
+#             todos[number - 1] = existing_todo
+#             print("todo updated")
+#         case "exit":
+#             break
+# print("bye!")   
+
+
 
